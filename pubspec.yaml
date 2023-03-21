@@ -20,7 +20,7 @@ dependencies:
   flutter:
     sdk: flutter
   image_picker: ^0.6.1+4
-  dio: ^2.1.13
+  dio: ">=2.1.13 <6.0.0"
   flutter_web_view: ^0.0.6
   flutter_inappbrowser: ^1.2.1
   url_launcher: ^5.1.3 
